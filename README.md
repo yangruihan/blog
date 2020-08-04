@@ -1,5 +1,8 @@
 # Yrh's Blog
 
+- 2020-08-04 [Git HEAD 丢失，如何找回](https://github.com/yangruihan/blog/issues/3)
+  [`git`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agit)
+
 - 2020-08-01 [使用 Python 合并多个 PDF](https://github.com/yangruihan/blog/issues/2) 
   [`python`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
 
