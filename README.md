@@ -1,5 +1,8 @@
 # Yrh's Blog
 
+- 2020-08-07 [C 使用 size_t 注意事项](https://github.com/yangruihan/blog/issues/4)
+  [`c`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac) [`c++`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac%2B%2B)
+
 - 2020-08-04 [Git HEAD 丢失，如何找回](https://github.com/yangruihan/blog/issues/3)
   [`git`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agit)
 
