@@ -1,5 +1,8 @@
 # Yrh's Blog
 
+- 2020-08-22 [记录一个 GCC Clang 可变参数宏展开问题](https://github.com/yangruihan/blog/issues/6)
+    [`c`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac) [`c++`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac%2B%2B)
+
 - 2020-08-09 [Parameter 和 Argument 的区别](https://github.com/yangruihan/blog/issues/5)
     [`c`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac) [`c++`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac%2B%2B)
 
