@@ -1,7 +1,10 @@
 # Yrh's Blog
 
+- 2020-09-02 [设置 Visual studio c 程序默认栈大小，避免 Stack Overflow 问题](https://github.com/yangruihan/blog/issues/7)
+    [`c`](https://github.com/yangruihan/blog/labels/c) [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`windows`](https://github.com/yangruihan/blog/labels/windows)
+
 - 2020-08-22 [记录一个 GCC Clang 可变参数宏展开问题](https://github.com/yangruihan/blog/issues/6)
-    [`c`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac) [`c++`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac%2B%2B)
+    [`c`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac) [`c++`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac%2B%2B) [`macos`](https://github.com/yangruihan/blog/labels/macos)
 
 - 2020-08-09 [Parameter 和 Argument 的区别](https://github.com/yangruihan/blog/issues/5)
     [`c`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac) [`c++`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ac%2B%2B)
