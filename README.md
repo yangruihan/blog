@@ -1,5 +1,8 @@
 # Yrh's Blog
 
+- 2020-09-19 [解决 Github 域名 DNS 污染问题](https://github.com/yangruihan/blog/issues/8)
+    [`problem`](https://github.com/yangruihan/blog/labels/problem) 
+
 - 2020-09-02 [设置 Visual studio c 程序默认栈大小，避免 Stack Overflow 问题](https://github.com/yangruihan/blog/issues/7)
     [`c`](https://github.com/yangruihan/blog/labels/c) [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`windows`](https://github.com/yangruihan/blog/labels/windows)
 
