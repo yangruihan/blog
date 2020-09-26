@@ -1,5 +1,8 @@
 # Yrh's Blog
 
+- 2020-09-26 [使用 Python 内置服务器模块](https://github.com/yangruihan/blog/issues/9)
+    [`python`](https://github.com/yangruihan/blog/labels/python) 
+
 - 2020-09-19 [解决 Github 域名 DNS 污染问题](https://github.com/yangruihan/blog/issues/8)
     [`problem`](https://github.com/yangruihan/blog/labels/problem) 
 
