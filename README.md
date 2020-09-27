@@ -8,7 +8,7 @@
     [`macos`](https://github.com/yangruihan/blog/labels/macos)[`problem`](https://github.com/yangruihan/blog/labels/problem) 
 
 - 2020-09-27 [解决 oh-my-zsh git 进入目录卡顿问题](https://github.com/yangruihan/blog/issues/11)
-    [`oh-my-zsh`](https://github.com/yangruihan/blog/labels/oh-my-zsh)[`cmd`](https://github.com/yangruihan/blog/labels/cmd)[`git`](https://github.com/yangruihan/blog/labels/git)[`problem`](https://github.com/yangruihan/blog/labels/problem) 
+    [`oh-my-zsh`](https://github.com/yangruihan/blog/labels/oh-my-zsh)[`cmd`](https://github.com/yangruihan/blog/labels/cmd)[`git`](https://github.com/yangruihan/blog/labels/git)[`problem`](https://github.com/yangruihan/blog/labels/problem)[`macos`](https://github.com/yangruihan/blog/labels/macos)
 
 - 2020-09-27 [macOS 如何设置触控板追踪速度超过系统设置上限](https://github.com/yangruihan/blog/issues/10)
     [`macos`](https://github.com/yangruihan/blog/labels/macos) 
