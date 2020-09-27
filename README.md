@@ -1,4 +1,11 @@
-# Yrh's Blog
+# Blog
+
+个人博客，用于记录日常遇到的问题和思考
+
+## 目录
+
+- 2020-09-27 [macOS 如何设置触控板追踪速度超过系统设置上限](https://github.com/yangruihan/blog/issues/10)
+    [`macos`](https://github.com/yangruihan/blog/labels/macos) 
 
 - 2020-09-26 [使用 Python 内置服务器模块](https://github.com/yangruihan/blog/issues/9)
     [`python`](https://github.com/yangruihan/blog/labels/python) 
