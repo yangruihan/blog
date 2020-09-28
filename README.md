@@ -4,6 +4,9 @@
 
 ## 目录
 
+- 2020-09-28 [简单定制 oh-my-zsh 提示信息](https://github.com/yangruihan/blog/issues/13)
+    [`oh-my-zsh`](https://github.com/yangruihan/blog/labels/oh-my-zsh) [`git`](https://github.com/yangruihan/blog/labels/git)
+
 - 2020-09-27 [/bin/bash^M: bad interpreter: No such file or directory 问题解决方案](https://github.com/yangruihan/blog/issues/12)
     [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
 
