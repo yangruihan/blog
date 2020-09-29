@@ -4,10 +4,13 @@
 
 ## 目录
 
+- 2020-09-29 [关于 macOS 遇到 `dyld: Library not loaded: xxx.dylib` 的解决方案](https://github.com/yangruihan/blog/issues/14)
+    [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)  
+
 - 2020-09-28 [简单定制 oh-my-zsh 提示信息](https://github.com/yangruihan/blog/issues/13)
     [`oh-my-zsh`](https://github.com/yangruihan/blog/labels/oh-my-zsh) [`git`](https://github.com/yangruihan/blog/labels/git)
 
-- 2020-09-27 [/bin/bash^M: bad interpreter: No such file or directory 问题解决方案](https://github.com/yangruihan/blog/issues/12)
+- 2020-09-27 [macOS `/bin/bash^M: bad interpreter: No such file or directory` 问题解决方案](https://github.com/yangruihan/blog/issues/12)
     [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
 
 - 2020-09-27 [解决 oh-my-zsh git 进入目录卡顿问题](https://github.com/yangruihan/blog/issues/11)
