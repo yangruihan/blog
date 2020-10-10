@@ -4,6 +4,9 @@
 
 ## 目录
 
+- 2020-10-10 [使用 Python OCR 将 PDF 转换成文本内容](https://github.com/yangruihan/blog/issues/15)
+    [`python`](https://github.com/yangruihan/blog/labels/python)  
+
 - 2020-09-29 [关于 macOS 遇到 `dyld: Library not loaded: xxx.dylib` 的解决方案](https://github.com/yangruihan/blog/issues/14)
     [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)  
 
