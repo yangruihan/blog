@@ -4,6 +4,9 @@
 
 ## 目录
 
+- 2020-11-18 [模板类的多个可变参数包解决方案](https://github.com/yangruihan/blog/issues/17)
+    [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`template`](https://github.com/yangruihan/blog/labels/template)  
+
 - 2020-11-16 [如何优雅地删掉 Git submodule (How effectively delete a git submodule)](https://github.com/yangruihan/blog/issues/16)
     [`git`](https://github.com/yangruihan/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agit)
 
