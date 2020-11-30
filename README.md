@@ -4,6 +4,9 @@
 
 ## 目录
 
+- 2020-11-29 [\[macOS\]设置最大文件打开数量](https://github.com/yangruihan/blog/issues/21)
+    [`macos`](https://github.com/yangruihan/blog/labels/macos) [`git`](https://github.com/yangruihan/blog/labels/git)
+
 - 2020-11-21 [\[Git\] 使用不同账号将本地内容推送到 Github](https://github.com/yangruihan/blog/issues/19)
     
     [`git`](https://github.com/yangruihan/blog/labels/git) [`github`](https://github.com/yangruihan/blog/labels/github)
