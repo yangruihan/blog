@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2020-12-17 [\[Bash\] Can't exec "aclocal": No such file or directory](https://github.com/yangruihan/blog/issues/26)
+
+    [`bash`](https://github.com/yangruihan/blog/labels/bash) [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)
+
 - 2020-12-15 [\[Bash\] 批量删除指定后缀的文件](https://github.com/yangruihan/blog/issues/25)
 
     [`bash`](https://github.com/yangruihan/blog/labels/bash) [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)
