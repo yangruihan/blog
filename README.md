@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2020-12-24 [\[Unity\] 如何记录位置和旋转变化前后的差值及还原](https://github.com/yangruihan/blog/issues/27)
+
+    [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`math`](https://github.com/yangruihan/blog/labels/math)
+
 - 2020-12-17 [\[Bash\] Can't exec "aclocal": No such file or directory](https://github.com/yangruihan/blog/issues/26)
 
     [`bash`](https://github.com/yangruihan/blog/labels/bash) [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)
