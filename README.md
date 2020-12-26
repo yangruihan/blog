@@ -4,7 +4,7 @@
 
 ## 目录
 
-- 2020-12-26 [[Unity] 位置和旋转偏移量如何做到 zy 平面镜像(https://github.com/yangruihan/blog/issues/30)
+- 2020-12-26 [\[Unity\] 位置和旋转偏移量如何做到 zy 平面镜像(https://github.com/yangruihan/blog/issues/30)
 
         [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`math`](https://github.com/yangruihan/blog/labels/math)
 
