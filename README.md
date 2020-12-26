@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2020-12-26 [\[Unity\] 如何解决物理射线在 Collider 内部无法检测到 Collider 的问题](https://github.com/yangruihan/blog/issues/28)
+
+    [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`problem`](https://github.com/yangruihan/blog/labels/problem)
+
 - 2020-12-24 [\[Unity\] 如何记录位置和旋转变化前后的差值及还原](https://github.com/yangruihan/blog/issues/27)
 
     [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`math`](https://github.com/yangruihan/blog/labels/math)
