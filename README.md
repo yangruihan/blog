@@ -4,19 +4,19 @@
 
 ## 目录
 
-- 2020-12-26 [\[Unity\] 如何解决物理射线在 Collider 内部无法检测到 Collider 的问题](https://github.com/yangruihan/blog/issues/28)
+- 2020-12-26 [\[Unity\] 如何解决物理射线在 Collider 内部无法检测到 Collider 的问题](https://github.com/yangruihan/blog/issues/29)
 
     [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`problem`](https://github.com/yangruihan/blog/labels/problem)
 
-- 2020-12-24 [\[Unity\] 如何记录位置和旋转变化前后的差值及还原](https://github.com/yangruihan/blog/issues/27)
+- 2020-12-24 [\[Unity\] 如何记录位置和旋转变化前后的差值及还原](https://github.com/yangruihan/blog/issues/28)
 
     [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`math`](https://github.com/yangruihan/blog/labels/math)
 
-- 2020-12-17 [\[Bash\] Can't exec "aclocal": No such file or directory](https://github.com/yangruihan/blog/issues/26)
+- 2020-12-17 [\[Bash\] Can't exec "aclocal": No such file or directory](https://github.com/yangruihan/blog/issues/27)
 
     [`bash`](https://github.com/yangruihan/blog/labels/bash) [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)
 
-- 2020-12-15 [\[Bash\] 批量删除指定后缀的文件](https://github.com/yangruihan/blog/issues/25)
+- 2020-12-15 [\[Bash\] 批量删除指定后缀的文件](https://github.com/yangruihan/blog/issues/26)
 
     [`bash`](https://github.com/yangruihan/blog/labels/bash) [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)
 
