@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2020-12-30 [\[C++\] Windows 遇到报错 Visual Studio error C2001：常量中有换行符](https://github.com/yangruihan/blog/issues/32)
+
+    [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`problem`](https://github.com/yangruihan/blog/labels/problem)
+
 - 2020-12-29 [\[Phone\] 安卓手机最低音量仍然觉得有些大，如果解决](https://github.com/yangruihan/blog/issues/31)
 
     [`problem`](https://github.com/yangruihan/blog/labels/problem) [`phone`](https://github.com/yangruihan/blog/labels/phone)
