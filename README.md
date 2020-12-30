@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2020-12-30 [\[C\] MD5 规范 RFC 1321 及代码实现](https://github.com/yangruihan/blog/issues/33)
+
+    [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`c`](https://github.com/yangruihan/blog/labels/c)
+
 - 2020-12-30 [\[C++\] Windows 遇到报错 Visual Studio error C2001：常量中有换行符](https://github.com/yangruihan/blog/issues/32)
 
     [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`problem`](https://github.com/yangruihan/blog/labels/problem)
