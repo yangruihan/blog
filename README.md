@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2020-12-31 [\[Python\] 简单实现将红印章从白底中抠出来效果](https://github.com/yangruihan/blog/issues/34)
+
+    [`python`](https://github.com/yangruihan/blog/labels/python) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
+
 - 2020-12-30 [\[C\] MD5 规范 RFC 1321 及代码实现](https://github.com/yangruihan/blog/issues/33)
 
     [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`c`](https://github.com/yangruihan/blog/labels/c)
@@ -98,7 +102,7 @@
 
 - 2020-09-26 [\[Python\] 使用 Python 内置服务器模块](https://github.com/yangruihan/blog/issues/9)
     
-    [`python`](https://github.com/yangruihan/blog/labels/python) 
+    [`python`](https://github.com/yangruihan/blog/labels/python) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
 
 - 2020-09-19 [\[Github\] 解决 Github 域名 DNS 污染问题](https://github.com/yangruihan/blog/issues/8)
     
