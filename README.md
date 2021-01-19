@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-01-19 [\[Unity\] 根据 视口（Viewport） 偏移量计算 世界（World） 偏移量](https://github.com/yangruihan/blog/issues/36)
+
+    [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`problem`](https://github.com/yangruihan/blog/labels/problem)
+
 - 2021-01-18 [\[Unity\] Windows 本地多开](https://github.com/yangruihan/blog/issues/35)
 
     [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`problem`](https://github.com/yangruihan/blog/labels/problem)
