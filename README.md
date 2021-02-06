@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-02-06 [\[C++\] 记录几个编写动态链接库遇到的问题 ](https://github.com/yangruihan/blog/issues/37)
+
+    [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`problem`](https://github.com/yangruihan/blog/labels/problem)
+
 - 2021-01-19 [\[Unity\] 根据 视口（Viewport） 偏移量计算 世界（World） 偏移量](https://github.com/yangruihan/blog/issues/36)
 
     [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity) [`problem`](https://github.com/yangruihan/blog/labels/problem)
