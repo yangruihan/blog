@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-02-20 [\[macOS\]打开性能模式，避免 -bash: fork: retry: Resource temporarily unavailable 问题](https://github.com/yangruihan/blog/issues/38)
+
+    [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem)
+
 - 2021-02-06 [\[C++\] 记录几个编写动态链接库遇到的问题 ](https://github.com/yangruihan/blog/issues/37)
 
     [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B) [`problem`](https://github.com/yangruihan/blog/labels/problem)
