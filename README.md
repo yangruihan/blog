@@ -4,7 +4,7 @@
 
 ## 目录
 
-- 2021-06-14 [查看 pip 支持的版本方法](https://github.com/yangruihan/blog/issues/39)
+- 2021-06-14 [\[Python\]查看 pip 支持的版本方法](https://github.com/yangruihan/blog/issues/39)
 
     [`python`](https://github.com/yangruihan/blog/labels/python) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
 
