@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-06-15 [\[Windows\] 右键添加“管理员身份证运行命令行”选项](https://github.com/yangruihan/blog/issues/42)
+
+    [`windows`](https://github.com/yangruihan/blog/labels/windows) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
+
 - 2021-06-15 [\[Python\] 使用 Python 监控键盘、鼠标输入](https://github.com/yangruihan/blog/issues/41)
 
     [`python`](https://github.com/yangruihan/blog/labels/python) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
