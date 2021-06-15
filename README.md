@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-06-15 [\[Python\] 使用 PyHook 监控键盘、鼠标输入](https://github.com/yangruihan/blog/issues/41)
+
+    [`python`](https://github.com/yangruihan/blog/labels/python) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
+
 - 2021-06-15 [\[Python\] 模拟键盘输入](https://github.com/yangruihan/blog/issues/40)
 
     [`python`](https://github.com/yangruihan/blog/labels/python) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
