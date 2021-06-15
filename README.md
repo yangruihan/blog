@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-06-15 [\[Python\] 模拟键盘输入](https://github.com/yangruihan/blog/issues/40)
+
+    [`python`](https://github.com/yangruihan/blog/labels/python) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
+
 - 2021-06-14 [\[Python\] 查看 pip 支持的版本方法](https://github.com/yangruihan/blog/issues/39)
 
     [`python`](https://github.com/yangruihan/blog/labels/python) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
