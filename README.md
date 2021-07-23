@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-07-23 [\[C#\] 得到泛型 Type 及根据 MethodInfo 创建 Delegate](https://github.com/yangruihan/blog/issues/43)
+
+    [`c#`](https://github.com/yangruihan/blog/labels/c%23) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
+
 - 2021-06-15 [\[Windows\] 右键添加“管理员身份证运行命令行”选项](https://github.com/yangruihan/blog/issues/42)
 
     [`windows`](https://github.com/yangruihan/blog/labels/windows) [`utils`](https://github.com/yangruihan/blog/labels/utils)    
