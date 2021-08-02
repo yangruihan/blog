@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-08-02 [\[macOS\] Chrome 花屏](https://github.com/yangruihan/blog/issues/44)
+
+    [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
+
 - 2021-07-23 [\[C#\] 得到泛型 Type 及根据 MethodInfo 创建 Delegate](https://github.com/yangruihan/blog/issues/43)
 
     [`c#`](https://github.com/yangruihan/blog/labels/c%23) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
