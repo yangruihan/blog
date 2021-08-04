@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-08-04 [\[Tmux\] 快捷键及使用技巧记录](https://github.com/yangruihan/blog/issues/45)
+
+    [`tmux`](https://github.com/yangruihan/blog/labels/tmux) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
+
 - 2021-08-02 [\[macOS\] Chrome 花屏](https://github.com/yangruihan/blog/issues/44)
 
     [`macos`](https://github.com/yangruihan/blog/labels/macos) [`problem`](https://github.com/yangruihan/blog/labels/problem) 
