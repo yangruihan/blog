@@ -4,7 +4,11 @@
 
 ## 目录
 
-- 2021-08-21 [[SSH] setting SSH connection to Ubuntu on Virtualbox](https://github.com/yangruihan/blog/issues/46)
+- 2021-08-22 [\[MakeFile\] What is the purpose of .PHONY in a Makefile?](https://github.com/yangruihan/blog/issues/47)
+
+    [`problem`](https://github.com/yangruihan/blog/labels/problem) [`makefile`](https://github.com/yangruihan/blog/labels/makefile) 
+
+- 2021-08-21 [\[SSH\] setting SSH connection to Ubuntu on Virtualbox](https://github.com/yangruihan/blog/issues/46)
 
     [`problem`](https://github.com/yangruihan/blog/labels/problem) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
 
