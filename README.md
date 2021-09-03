@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-09-03 [\[Linux\] lubuntu 设置系统代理](https://github.com/yangruihan/blog/issues/49)
+
+    [`linux`](https://github.com/yangruihan/blog/labels/linux) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
+
 - 2021-09-02 [\[Linux\] 个人系统自动化安装配置脚本](https://github.com/yangruihan/blog/issues/48)
 
     [`linux`](https://github.com/yangruihan/blog/labels/linux) [`bash`](https://github.com/yangruihan/blog/labels/bash) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
