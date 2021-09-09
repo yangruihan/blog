@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-09-09 [\[SVN\] 更新时校验和不匹配](https://github.com/yangruihan/blog/issues/50)
+
+    [`problem`](https://github.com/yangruihan/blog/labels/problem) [`svn`](https://github.com/yangruihan/blog/labels/svn) 
+
 - 2021-09-03 [\[Linux\] lubuntu 设置系统代理](https://github.com/yangruihan/blog/issues/49)
 
     [`linux`](https://github.com/yangruihan/blog/labels/linux) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
