@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2021-09-16 [\[Homebrew\] 重置软件源](https://github.com/yangruihan/blog/issues/51)
+
+    [`homebrew`](https://github.com/yangruihan/blog/labels/homebrew) [`utils`](https://github.com/yangruihan/blog/labels/utils) 
+
 - 2021-09-09 [\[SVN\] 更新时校验和不匹配](https://github.com/yangruihan/blog/issues/50)
 
     [`problem`](https://github.com/yangruihan/blog/labels/problem) [`svn`](https://github.com/yangruihan/blog/labels/svn) 
