@@ -4,7 +4,7 @@
 
 ## 目录
 
-- 2022-01-05 [\[UE\] macOS generate project command line](https://github.com/yangruihan/blog/issues/51)
+- 2022-01-05 [\[UE\] macOS generate project command line](https://github.com/yangruihan/blog/issues/52)
 
     [`unreal`](https://github.com/yangruihan/blog/labels/unreal) [`macos`](https://github.com/yangruihan/blog/labels/macos) 
 
