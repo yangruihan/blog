@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2022-02-07 [\[Cpp\] 使用 clang-format 格式化代码](https://github.com/yangruihan/blog/issues/53)
+
+    [`c`](https://github.com/yangruihan/blog/labels/c) [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B)
+
 - 2022-01-05 [\[UE\] macOS generate project command line](https://github.com/yangruihan/blog/issues/52)
 
     [`unreal`](https://github.com/yangruihan/blog/labels/unreal) [`macos`](https://github.com/yangruihan/blog/labels/macos) 
