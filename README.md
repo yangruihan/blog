@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2022-04-20 [\[Game Dev\] 纹理压缩格式相关](https://github.com/yangruihan/blog/issues/54)
+
+    [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity)
+
 - 2022-04-01 [\[UE\]Change build environment and add custom compiler arguments](https://github.com/yangruihan/blog/issues/53)
 
     [`unreal`](https://github.com/yangruihan/blog/labels/unreal) [`macos`](https://github.com/yangruihan/blog/labels/macos) 
