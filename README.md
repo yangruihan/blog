@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2022-09-11 [\[SICP\]Church 计数](https://github.com/yangruihan/blog/issues/57)
+
+    [`sicp`](https://github.com/yangruihan/blog/labels/sicp)
+
 - 2022-04-20 [\[Game Dev\] 纹理压缩格式相关](https://github.com/yangruihan/blog/issues/54)
 
     [`game dev`](https://github.com/yangruihan/blog/labels/game%20dev) [`unity`](https://github.com/yangruihan/blog/labels/unity)
