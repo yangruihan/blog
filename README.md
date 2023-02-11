@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2023-02-11 [\[Python\] NumPy 学习笔记](https://github.com/yangruihan/blog/issues/58)
+
+    [`python`](https://github.com/yangruihan/blog/labels/python) [`ML`](https://github.com/yangruihan/blog/labels/ML)
+
 - 2022-09-11 [\[SICP\]Church 计数](https://github.com/yangruihan/blog/issues/57)
 
     [`sicp`](https://github.com/yangruihan/blog/labels/sicp)
