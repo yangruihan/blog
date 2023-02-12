@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2023-02-12 [\[Git\]如何将 Submodule 更新为 https 协议](https://github.com/yangruihan/blog/issues/59)
+
+    [`git`](https://github.com/yangruihan/blog/labels/git)
+
 - 2023-02-11 [\[Python\] NumPy 学习笔记](https://github.com/yangruihan/blog/issues/58)
 
     [`python`](https://github.com/yangruihan/blog/labels/python) [`ML`](https://github.com/yangruihan/blog/labels/ML)
