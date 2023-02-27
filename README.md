@@ -4,6 +4,14 @@
 
 ## 目录
 
+- 2023-02-27 [\[ML\] 学习资料](https://github.com/yangruihan/blog/issues/61)
+
+    [`ML`](https://github.com/yangruihan/blog/labels/ml)
+
+- 2023-02-23 [\[Mac\] M1 使用 GPU 加速 TensorFlow 训练速度](https://github.com/yangruihan/blog/issues/60)
+
+    [`ML`](https://github.com/yangruihan/blog/labels/ml) [`macos`](https://github.com/yangruihan/blog/labels/macos)
+
 - 2023-02-12 [\[Git\]如何将 Submodule 更新为 https 协议](https://github.com/yangruihan/blog/issues/59)
 
     [`git`](https://github.com/yangruihan/blog/labels/git)
