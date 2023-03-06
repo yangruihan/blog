@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2023-03-06 [\[Python\] Windows 下多版本管理](https://github.com/yangruihan/blog/issues/62)
+
+    [`python`](https://github.com/yangruihan/blog/labels/python)
+
 - 2023-02-27 [\[ML\] 学习资料](https://github.com/yangruihan/blog/issues/61)
 
     [`ML`](https://github.com/yangruihan/blog/labels/ml)
