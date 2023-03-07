@@ -24,6 +24,8 @@
 
     [`python`](https://github.com/yangruihan/blog/labels/python) [`ML`](https://github.com/yangruihan/blog/labels/ML)
 
+    [learn_numpy](Python/Numpy/learn_numpy.ipynb)
+
 - 2022-09-11 [\[SICP\]Church 计数](https://github.com/yangruihan/blog/issues/57)
 
     [`sicp`](https://github.com/yangruihan/blog/labels/sicp)
