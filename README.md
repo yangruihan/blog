@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2024-05-18 [\[文章分享\] Classes in C](https://github.com/yangruihan/blog/issues/63)
+
+    [`c`](https://github.com/yangruihan/blog/labels/c) [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B)
+
 - 2023-03-06 [\[Python\] Windows 下多版本管理](https://github.com/yangruihan/blog/issues/62)
 
     [`python`](https://github.com/yangruihan/blog/labels/python)
