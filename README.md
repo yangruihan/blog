@@ -4,6 +4,10 @@
 
 ## 目录
 
+- 2024-06-17 [\[论文分享\] An Incremental Approach to Compiler Construction](https://github.com/yangruihan/blog/issues/64)
+
+    [`paper`](https://github.com/yangruihan/blog/labels/paper) [`scheme`](https://github.com/yangruihan/blog/labels/scheme)
+
 - 2024-05-18 [\[文章分享\] Classes in C](https://github.com/yangruihan/blog/issues/63)
 
     [`c`](https://github.com/yangruihan/blog/labels/c) [`c++`](https://github.com/yangruihan/blog/labels/c%2B%2B)
